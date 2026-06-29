@@ -1,0 +1,14 @@
+/config/workspace/tuple-r-ckgabe/Program/bin/Debug/net8.0/Program
+/config/workspace/tuple-r-ckgabe/Program/bin/Debug/net8.0/Program.deps.json
+/config/workspace/tuple-r-ckgabe/Program/bin/Debug/net8.0/Program.runtimeconfig.json
+/config/workspace/tuple-r-ckgabe/Program/bin/Debug/net8.0/Program.dll
+/config/workspace/tuple-r-ckgabe/Program/bin/Debug/net8.0/Program.pdb
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.dll
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/refint/Program.dll
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.pdb
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/Program.genruntimeconfig.cache
+/config/workspace/tuple-r-ckgabe/Program/obj/Debug/net8.0/ref/Program.dll
